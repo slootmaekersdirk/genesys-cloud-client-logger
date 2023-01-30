@@ -27,9 +27,6 @@
   "files": [
     "dist"
   ],
-  "pre-push": [
-    "test"
-  ],
   "author": "garrett.jensen@genesys.com",
   "license": "MIT",
   "devDependencies": {
