@@ -2,8 +2,8 @@
   "name": "genesys-cloud-client-logger",
   "version": "4.2.2",
   "description": "Common logger for genesys cloud client application to upload logs server",
-  "main": "src/index.ts",
-  "module": "src/index.ts",
+  "main": "dist/src/index.js",
+  "module": "dist/es/index.js",
   "web": "dist/genesys-cloud-client-logger.min.js",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
